@@ -114,20 +114,24 @@ Office of Minority Health, $248,000.
 
 # Publications
 
-## Peer Reviewed Journal Articles
+## Peer Reviewed Journal Articles[^1]
+
+
+[^1]: Indicates author or presenter was student/mentee of Dr. McQuillin.
+
 1. Strait, G., Smith, B., McQuillin, S. (2018) The Test-Retest Reliability, Predictive Validity, and Cut Score Precision and Efficiency of Aggregated Randomly Generated Math Curriculum-Based Measurements. Assessment for Effective Intervention.
-1. Nowell, K., Kochel, R. P., McQuillin, S., Mire, S. (2017). Intellectual functioning and autism spectrum disorder: Can profiles inform identification of subpopulations? Journal of Autism and Developmental Disorders. DOI: http://dx.doi.org/10.1007/s40489-017-0118-0
+1. Nowell^1^, K., Kochel, R. P., McQuillin, S., Mire, S. (2017). Intellectual functioning and autism spectrum disorder: Can profiles inform identification of subpopulations? Journal of Autism and Developmental Disorders. DOI: http://dx.doi.org/10.1007/s40489-017-0118-0
 1. Strait, G., Lee, E., McQuillin, S., Terry, J., Cebada, M., Strait, E. (2017). The student check-up: effects of paraprofessional-delivered motivational interviewing on academic outcomes. *Advances in School Mental Health Promotion*.  http://dx.doi.org/10.1080/1754730X.2017.1333915
-1. Keller-Margulis, M., McQuillin, S., Ochs, S., Castaneda, J., Jones, J. (in press). Identifying students at-risk: An examination of computer-adaptive measures and latent class growth analysis. *Journal of Applied School Psychology*.
+1. Keller-Margulis, M., McQuillin, S., Ochs^1^, S., Castaneda, J., Jones, J. (in press). Identifying students at-risk: An examination of computer-adaptive measures and latent class growth analysis. *Journal of Applied School Psychology*.
 1. Gregus, S., Rodriguez, J., Pastrana, F., Craig, J., McQuillin, S., Cavell, T. (in press).Teacher self-efficacy and intentions to use anti-bullying practices as predictors of children's peer victimization. *School Psychology Review*.
-1. Lyons, M., Jones, S., Smith, B., McQuillin, S., Reid, E., Jacobs, G., McClellan, A. (in press). Motivation coaching training for instructional coaches: A pilot study of motivational interviewing skills training. *Mentoring and Tutoring: Partnership in Learning*.
+1. Lyons, M., Jones, S., Smith, B., McQuillin, S., Reid, E., Jacobs^1^, G., McClellan, A. (in press). Motivation coaching training for instructional coaches: A pilot study of motivational interviewing skills training. *Mentoring and Tutoring: Partnership in Learning*.
 1. McQuillin, S., Lyons, M (2016). Brief instrumental school-based mentoring for middle school students: theory and impact. *Advances in School Mental Health Promotion, 9(2), 73-89.*
-1. Ochs, S., Keller-Margulis, M., McQuillin, S., Jones, J. (2016). The validity and diagnostic accuracy of a computer adaptive test of reading. *Research And Practice in the Schools, 4(1), 29-41.*
+1. Ochs^1^, S., Keller-Margulis, M., McQuillin, S., Jones, J. (2016). The validity and diagnostic accuracy of a computer adaptive test of reading. *Research And Practice in the Schools, 4(1), 29-41.*
 1. Dempsey, J., McQuillin, S., Butler, A. M., & Axelrad, M. E. (2016). Maternal Depression and Parent Management Training Outcomes. *Journal of Clinical Psychology in Medical Settings*, 1-7. http://doi.org/10.1007/s10880-016-9461-z
 1. Robinson, A., Roberts, J., Brady, N., McQuillin, S., Warren, S. (2016). Physiological Correlates of Maternal Responsivity in Mothers of Preschoolers with Fragile X Syndrome. *American Journal on Intellectual and Developmental Disabilities. 121(2), 111-120.*
 1. McQuillin, S., Strait, G., Saeki, E. (2015). Program support and value of training in mentor satisfaction and anticipated continuation of school-based mentoring relationships. *Mentoring and Tutoring: Partnership in Learning, 23(2), 133-148.*
 1. Terry, J., Smith, A., Warren, P., Miller, M., McQuillin, S., Wolfer, T., & Weist, M. (2015). Incorporation of evidence-based practices into faith-based organization service programs. *Journal of Psychology and Theology, 43, 212-223.*
-1. McQuillin, S., Smith, B., & Strait, G., Ingram, A., (2015). Brief Instrumental School- Based Mentoring for First and Second Year Middle School Students: A Randomized Evaluation. *Journal of Community Psychology 43(7), 885-889.*
+1. McQuillin, S., Smith, B., & Strait, G., Ingram^1^, A., (2015). Brief Instrumental School- Based Mentoring for First and Second Year Middle School Students: A Randomized Evaluation. *Journal of Community Psychology 43(7), 885-889.*
 1. Strait, G., McQuillin, S., Terry, J., Smith, B. (2014). School-based motivational interviewing with students,teachers, and parents: new developments and future direction. *Advances in School Mental Health Promotion, 7(4), 2014, 205-207.*
 1. Terry, J. D., Smith, B. H., & McQuillin, S. D. (2014). Teaching evidence-based practice in service-learning: A model for education and service. *Journal on Excellence in College Teaching, 25(1), 55-69.*
 1. Roberts, J., Tonnsen, B., Robinson, M., McQuillin, S., Hatton, D. (2014) Temperament factor structure in fragile x syndrome: The children's behavior questionnaire. *Research in Developmental Disabilities, 35, 563-571.*
@@ -144,22 +148,22 @@ Office of Minority Health, $248,000.
 
 ## Other Publications  
 
-* Strait, G., McQuillin, Anderson, J., & Williams, C. (in press). Practical applications of student focused motivational interviewing. In McNamara, E. (eds.), Motivational Interviewing Theory Practice, and Applications with Children and Young People. Positive Behaviour Management.  
-* Garringer, M., McQuillin, S., McDaniel H. (2017) Examining Youth Mentoring Services Across America: Findings from the 2016 National Mentoring Program Survey. Technical Report produced by MENTOR: The National Mentoring Partnership.  
-* McQuillin, S., Smith, B., McLelland, B. (2014) Using practice-based evidence to inform the development of school-based mentoring. *The Community Psychologist, 47, 2, 31-32.*  
+* Strait, G., McQuillin, Anderson^1^, J., & Williams, C. (in press). Practical applications of student focused motivational interviewing. In McNamara, E. (eds.), Motivational Interviewing Theory Practice, and Applications with Children and Young People. Positive Behaviour Management.  
+* Garringer, M., McQuillin, S., McDaniel^1^ H. (2017) Examining Youth Mentoring Services Across America: Findings from the 2016 National Mentoring Program Survey. Technical Report produced by MENTOR: The National Mentoring Partnership.  
+* McQuillin, S., Smith, B., McLelland^1^, B. (2014) Using practice-based evidence to inform the development of school-based mentoring. *The Community Psychologist, 47, 2, 31-32.*  
 * Strait, G., Terry, J., McQuillin, S., Smith, B. (2013). Motivational interviewing: ready for adults and emergent for adolescents. *The Community Psychologist, 46(1), 26-28.*  
 * Smith, B., McQuillin, S., & Shapiro, C. (2008). An installation adaptation diffusion model of university-community-school partnerships. *The Community Psychologist, 42(1),43-46.*  
 
 #Peer Reviewed Presentations
 
 1. McQuillin, S., Lyons, M. (2017) Treatment construct validity in school-based mentoring intervention research. Paper presented at the annual meeting for the Society for Research on Educational Effectiveness, Washington, DC. 
-1. McQuillin, S., McDaniel, H. (2017) Using Motivational Interviewing in School-Based Mentoring Programs. Paper presented at the annual meeting for the Society for Prevention Research, Washington, DC.
+1. McQuillin, S., McDaniel^1^, H. (2017) Using Motivational Interviewing in School-Based Mentoring Programs. Paper presented at the annual meeting for the Society for Prevention Research, Washington, DC.
 1. Lyons, M., McQuillin, S., Lamont, A. (2017) A Reanalysis of the Student Mentoring Program: Estimating Treatment Effects by the Quality of the Mentoring Relationship.
 1. McQuillin, S. (2017) Changing the way we train mentors: Just in Time Training & Motivational Interviewing. Paper presented at the annual National Mentoring Summit in Washington, DC.
-1. McQuillin, S., Jacobs, G., Sajovek, P., Johnson, B., Anderson, A. (2016). Brief Instrumental School-Based Mentoring for Adolescents-Theory, Practice, and Impact Evaluations. Symposium presented at the annual meeting for the American Psychological Association, Denver, CO.
+1. McQuillin, S., Jacobs^1^, G., Sajovek^1^, P., Johnson^1^, B., Anderson^1^, A. (2016). Brief Instrumental School-Based Mentoring for Adolescents-Theory, Practice, and Impact Evaluations. Symposium presented at the annual meeting for the American Psychological Association, Denver, CO.
 1. McQuillin, S. (2015). From harmful to helpful: transforming youth mentoring through task shifting, evidence- based practice, and practice-based evidence. Symposium presented at the annual meeting for the Association of Psychological Science, New York, NY.
 1. McQuillin, S. (2014). The University of Houston Academic Mentoring Program for Education and Development (AMPED). Paper presented at the annual meeting of the American Psychological Association, Washington, DC.
-1. McQuillin, S., Smith, B., McLelland, B. (2014). Motivaitonal Interviewing and School-Based Mentoring: Process, Procedures, Implementation, and Results. Paper presented at the annual meeting of the American Psychological Association, Washington, DC.
+1. McQuillin, S., Smith, B., McLelland^1^, B. (2014). Motivaitonal Interviewing and School-Based Mentoring: Process, Procedures, Implementation, and Results. Paper presented at the annual meeting of the American Psychological Association, Washington, DC.
 1. McQuillin, S. (2014). School-based instrumental mentoring for middle-school students: past, present future. Poster presented at the annual meeting of the Society for Prevention Research, Washington, DC.
 1. McQuillin, S., Saeki, E. (2013). Mechanisms of Change in School-Based Psychosocial Interventions. Paper presented at the annual meeting of the National Association of School Psychologists, Seattle, WA.
 1. McQuillin, S., Cavell, T., Elledge, E., Strait, G., Smith, B., Terry, J. (2012). Brief manualized school-based mentoring interventions for secondary students: Results and suggestions from two randomized trials. In McQuillin, S. (Chair), Principles of change in school-based mentoring and coaching interventions. New findingsand implications from five randomized controlled studies. Presented at the symposium conducted at the 46th annual convention of the Association for Behavioral and Cognitive Therapies, National Harbor, MD.
@@ -189,11 +193,11 @@ McQuillin, S. (2015). Improving the impact of school-based mentoring. Keynote sp
 
 McQuillin, S. (2014). Using motivational interviewing in the context of teacher coaching. Three day workshop presented to Houston area master coaches. Teach2Lead Houston, Houston, TX.
 
-McQuillin, S., McLelland, B.(2013). Motivational Interviewing in Schools. Workshop provided to pre-doctoral interns as part of their APA Accredited Internship in Psychology. Cypress, TX
+McQuillin, S., McLelland^1^, B.(2013). Motivational Interviewing in Schools. Workshop provided to pre-doctoral interns as part of their APA Accredited Internship in Psychology. Cypress, TX
 
-McQuillin, S., McLelland, B.(2012). Motivating students to succeed in school. Workshop provided to student support counselors at YES Prep Charter School, Houston, TX.
+McQuillin, S., McLelland^1^, B.(2012). Motivating students to succeed in school. Workshop provided to student support counselors at YES Prep Charter School, Houston, TX.
 
-McQuillin, S., McLelland, B.(2012). Mentoring and Motivational Interviewing. Workshop provided to pre-doctoral interns as part of their APA Accredited Internship in Psychology. Cypress, TX
+McQuillin, S., McLelland^1^, B.(2012). Mentoring and Motivational Interviewing. Workshop provided to pre-doctoral interns as part of their APA Accredited Internship in Psychology. Cypress, TX
 
 #Awards
 
