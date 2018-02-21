@@ -66,6 +66,7 @@ South Carolina Learning Disabilities Research Project
 Office of Special Education Services, SC, $738,318
 
 Investigator (PI: Jane Roberts, University of South Carolina) \hfill 2017-2021  
+Emergence and Stability of Autism in Fragile X Syndrome: longitudinal extension  
 R01 MH90194-06  
 National Institute of Mental Health, $3,550,989  
 
@@ -122,9 +123,9 @@ Office of Minority Health, $248,000.
 1. Strait, G., Smith, B., McQuillin, S. (2018) The Test-Retest Reliability, Predictive Validity, and Cut Score Precision and Efficiency of Aggregated Randomly Generated Math Curriculum-Based Measurements. Assessment for Effective Intervention.
 1. Nowell^1^, K., Kochel, R. P., McQuillin, S., Mire, S. (2017). Intellectual functioning and autism spectrum disorder: Can profiles inform identification of subpopulations? Journal of Autism and Developmental Disorders. DOI: http://dx.doi.org/10.1007/s40489-017-0118-0
 1. Strait, G., Lee, E., McQuillin, S., Terry, J., Cebada, M., Strait, E. (2017). The student check-up: effects of paraprofessional-delivered motivational interviewing on academic outcomes. *Advances in School Mental Health Promotion*.  http://dx.doi.org/10.1080/1754730X.2017.1333915
-1. Keller-Margulis, M., McQuillin, S., Ochs^1^, S., Castaneda, J., Jones, J. (in press). Identifying students at-risk: An examination of computer-adaptive measures and latent class growth analysis. *Journal of Applied School Psychology*.
-1. Gregus, S., Rodriguez, J., Pastrana, F., Craig, J., McQuillin, S., Cavell, T. (in press).Teacher self-efficacy and intentions to use anti-bullying practices as predictors of children's peer victimization. *School Psychology Review*.
-1. Lyons, M., Jones, S., Smith, B., McQuillin, S., Reid, E., Jacobs^1^, G., McClellan, A. (in press). Motivation coaching training for instructional coaches: A pilot study of motivational interviewing skills training. *Mentoring and Tutoring: Partnership in Learning*.
+1. Keller-Margulis, M., McQuillin, S., Ochs^1^, S., Castaneda, J., Jones, J. (2017). Identifying students at-risk: An examination of computer-adaptive measures and latent class growth analysis. *Journal of Applied School Psychology*.
+1. Gregus, S., Rodriguez, J., Pastrana, F., Craig, J., McQuillin, S., Cavell, T. (2017).Teacher self-efficacy and intentions to use anti-bullying practices as predictors of children's peer victimization. *School Psychology Review*.
+1. Lyons, M., Jones, S., Smith, B., McQuillin, S., Reid, E., Jacobs^1^, G., McClellan, A. (2017). Motivation coaching training for instructional coaches: A pilot study of motivational interviewing skills training. *Mentoring and Tutoring: Partnership in Learning*.
 1. McQuillin, S., Lyons, M (2016). Brief instrumental school-based mentoring for middle school students: theory and impact. *Advances in School Mental Health Promotion, 9(2), 73-89.*
 1. Ochs^1^, S., Keller-Margulis, M., McQuillin, S., Jones, J. (2016). The validity and diagnostic accuracy of a computer adaptive test of reading. *Research And Practice in the Schools, 4(1), 29-41.*
 1. Dempsey, J., McQuillin, S., Butler, A. M., & Axelrad, M. E. (2016). Maternal Depression and Parent Management Training Outcomes. *Journal of Clinical Psychology in Medical Settings*, 1-7. http://doi.org/10.1007/s10880-016-9461-z
@@ -148,7 +149,7 @@ Office of Minority Health, $248,000.
 
 ## Other Publications  
 
-* Strait, G., McQuillin, Anderson^1^, J., & Williams, C. (in press). Practical applications of student focused motivational interviewing. In McNamara, E. (eds.), Motivational Interviewing Theory Practice, and Applications with Children and Young People. Positive Behaviour Management.  
+* Strait, G., McQuillin, Anderson^1^, J., & Williams, C. (2018). Practical applications of student focused motivational interviewing. In McNamara, E. (eds.), Motivational Interviewing Theory Practice, and Applications with Children and Young People. Positive Behaviour Management.  
 * Garringer, M., McQuillin, S., McDaniel^1^ H. (2017) Examining Youth Mentoring Services Across America: Findings from the 2016 National Mentoring Program Survey. Technical Report produced by MENTOR: The National Mentoring Partnership.  
 * McQuillin, S., Smith, B., McLelland^1^, B. (2014) Using practice-based evidence to inform the development of school-based mentoring. *The Community Psychologist, 47, 2, 31-32.*  
 * Strait, G., Terry, J., McQuillin, S., Smith, B. (2013). Motivational interviewing: ready for adults and emergent for adolescents. *The Community Psychologist, 46(1), 26-28.*  
@@ -256,16 +257,14 @@ Children & Exceptionality, University of South Carolina
 Susceptibility to Peer Influence and Social Anxiety: An Exploratory Study \hfill 2012  
 Chair of candidacy project for Ph.D. Student Brent Smith.  
 
-ABA Therapy in the ASD Population: Long Term Social Functioning and Potential Gender Differences \hfill 2013  
+ABA Therapy in the ASD Population: Long Term Social Functioning and Gender Differences \hfill 2013  
 Chair of candidacy project for Ph.D. Student Allyson Tagliarina.  
 
 Parent Stress Response Relative to Boys and Girls Born Preterm \hfill 2014  
 Chair of candidacy project for Ph.D. Student Sonia Babu.  
 
-Association Between Foster Parent Knowledge of Child Sexual Trauma, Parental Self Efficacy, 
-and Detainment of Sexually Abused Foster Children \hfill	2014  
+Parent Knowledge of Sexual Trauma of Sexually Abused Foster Children \hfill	2014  
 Chair of Dissertation project for Ph.D. Student Brent Smith.  
-
 
 Psychometric Properties of the Alabama Parenting Questionnaire-Preschool Revision \hfill	2014  
 Chair of dissertation project for Ph.D. Student Erika Gonzalez.  
@@ -282,7 +281,7 @@ Chair of dissertation project for Ph.D. Student Kerri Nowell.
 Motivational Interviewing: Perceptions of Empathy and Reactance	\hfill 2015  
 Chair of candidacy project for Ph.D. Student Brittany McLelland.   
 
-Parenting Stress as a Predictor of Child Externalizing Behaviors	\hfill 2015
+Parenting Stress as a Predictor of Child Externalizing Behaviors	\hfill 2015  
 Chair of dissertation project for Ph.D. Student Erika Gonzalez. 
 
 An Analysis of National Trends in Composition of Psychologists in the United States	\hfill 2015   
