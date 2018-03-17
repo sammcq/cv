@@ -28,12 +28,12 @@ urlcolor: blue
 # Employment
 
 *University of South Carolina*
-
-Assistant Professor (Columbia) \hfill 2016-Present
+Assistant Professor (Columbia) \hfill 2016-Present  
+Department of Psychology
 
 *University of Houston*
-
-Assistant Professor (Houston) \hfill 2012-2016
+Assistant Professor (Houston)  \hfill 2012-2016  
+Department of Psychological Health and Learning Sciences  
 
 # Education
 
