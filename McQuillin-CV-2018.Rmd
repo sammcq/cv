@@ -120,8 +120,8 @@ Office of Minority Health, $248,000.
 
 [^1]: Indicates author or presenter was student/mentee of Dr. McQuillin.
 
-1. Lyons, M., McQuillin, S. (in press) A reanalysis of the Student Mentoring Program: Estimating treatment effects by the quality of the mentoring relationship. School Psychology Quarterly.
-1. McQuillin, S., Lyons, M., Clayton^1^, B., Anderson^1^, J. (in press) Assessing the impact of school-based mentoring: Common problems and solutions associated with evaluating non-prescriptive youth development programs. Applied Developmental Science.
+1. Lyons, M., McQuillin, S. (2018) A reanalysis of the Student Mentoring Program: Estimating treatment effects by the quality of the mentoring relationship. School Psychology Quarterly. https://doi.org/10.1037/spq0000265
+1. McQuillin, S., Lyons, M., Clayton^1^, B., Anderson^1^, J. (2018) Assessing the impact of school-based mentoring: Common problems and solutions associated with evaluating non-prescriptive youth development programs. Applied Developmental Science. http://doi.org/10.1080/10888691.2018.1454837
 1. Strait, G., Smith, B., McQuillin, S. (2018) The Test-Retest Reliability, Predictive Validity, and Cut Score Precision and Efficiency of Aggregated Randomly Generated Math Curriculum-Based Measurements. Assessment for Effective Intervention.
 1. Nowell^1^, K., Kochel, R. P., McQuillin, S., Mire, S. (2017). Intellectual functioning and autism spectrum disorder: Can profiles inform identification of subpopulations? Journal of Autism and Developmental Disorders. DOI: http://dx.doi.org/10.1007/s40489-017-0118-0
 1. Strait, G., Lee, E., McQuillin, S., Terry, J., Cebada, M., Strait, E. (2017). The student check-up: effects of paraprofessional-delivered motivational interviewing on academic outcomes. *Advances in School Mental Health Promotion*.  http://dx.doi.org/10.1080/1754730X.2017.1333915
