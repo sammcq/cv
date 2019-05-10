@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae 2018"
+title: "Curriculum Vitae 2019"
 author: "Samuel Dale McQuillin, Ph.D."
 email: MCQUILLS@mailbox.sc.edu
 output:
