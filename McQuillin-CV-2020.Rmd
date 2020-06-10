@@ -55,6 +55,10 @@ National Association of School Psychologist \hfill 2007-present
 
 # Grant Awards/Activity
 
+Principal Investigator \hfill 2020-2021  
+Development and Evaluation of Distributed Motivational Interviewing Training for Mentors
+Genetech/MENTOR: The National Mentoring Partnership, $250,000  
+
 Co-Investigator \hfill 2019-2023  
 Patient-Centered Enhancements in School Behavioral Health: A Randomized Trial   
 (PI: Mark Weist, University of South Carolina)   
@@ -125,15 +129,17 @@ Office of Minority Health, $248,000.
 # Publications
 
 ## Peer Reviewed Journal Articles[^1]
+[^1]: Indicates author or presenter was student/mentee of Dr. McQuillin.  
 
-
-[^1]: Indicates author or presenter was student/mentee of Dr. McQuillin.
-
-1. Roberts, J., Crawford, H., Will, E., Hogan, A., McQuillin, S., Tonnsen, B., O'Connor, S., Roberts, D., Brewe, A.(in press) Infant social avoidance predicts autism but not anxiety in fragile x syndrome. *Frontiers in Psychiatry*
+1. Roberts, J., Bradshaw, J., Will, E., Hogan, A., McQuillin, S., Hills, K. (in press). Emergence and rate of autism in fragile x syndrome across the first years of life. Development and Psycholopathology. 
+1. McQuillin, S., McDaniel, H.(2020), Pilot randomized trial of brief school‐based mentoring for middle school students with elevated disruptive behavior. Annals of the New York Academy of Sciences. doi:10.1111/nyas.14334
+1. Hagler, M., McQuillin, S., Rhodes, J. (2020) Ideological profiles of adults and their support for youth mentoring. Journal of Community Psychology. https://doi.org/10.1002/jcop.22247
+1. Wall, C., Hogan, A., Will, E., Kelleher, B., Roberts, J. (2019) Early negative affect in males and females with fargile X syndrome: implications for anxiety and autism. Journal of Neurodevelopmental Disorders, 11 (1), 22.https://doi.org/10.1186/s11689-019-9284-y
+1. Roberts, J., Crawford, H., Will, E., Hogan, A., McQuillin, S., Tonnsen, B., O'Connor, S., Roberts, D., Brewe, A.(2019) Infant social avoidance predicts autism but not anxiety in fragile x syndrome. *Frontiers in Psychiatry*
 1. Mire, S., McQuillin, S., Racine, M., Goin-Kochel, R. (2019) Using latent class analysis to identify treatment-use subgroups among parents of children with autism spectrum disorder. *Autism Research.*
 1. McQuillin, S., Lyons, M., Becker, K., Hart^1^, M., Cohen^1^, K. (2019) Strengthening and expanding child services in low resource communities: The role of task-shifting and just-in-time training. *American Journal of Community Psychology.* https://doi.org/10.1002/ajcp.12314
 1. Lyons, M., McQuillin, S., Henderson, L. (2019) Finding the sweet spot: Investigating the effects of relationship closeness and instrumental activities in school-based mentoring. *American Journal of Community Psychology.* https://doi.org/10.1002/ajcp.12283
-1. McQuillin, S., Lyons, M., Clayton^1^, B., Anderson^1^, J. (2018) Assessing the impact of school-based mentoring: Common problems and solutions associated with evaluating non-prescriptive youth development programs. *Applied Developmental Science.* http://doi.org/10.1080/10888691.2018.1454837
+1. McQuillin, S., Lyons, M., Clayton^1^, B., Anderson^1^, J. (2019) Assessing the impact of school-based mentoring: Common problems and solutions associated with evaluating non-prescriptive youth development programs. *Applied Developmental Science.* http://doi.org/10.1080/10888691.2018.1454837
 1. Lyons, M., McQuillin, S. (2018) A reanalysis of the Student Mentoring Program: Estimating treatment effects by the quality of the mentoring relationship. *School Psychology Quarterly.* https://doi.org/10.1037/spq0000265
 1. Payan, A., Keller-Margulis, M., Burridge, A., McQuillin, S., Hassett, K. (2018) Assessing teacher usability of written expression curriculum-based measurement. *Assessment for Effective Intervention*, 1-14.  https://doi.org/10.1177/1534508418781007
 1. Strait, G., Smith, B., McQuillin, S. (2018) Aggregated randomly generated math curriculum-based measurements for middle school students: Reliability, predictive validity, and cut score precision. *Assessment for Effective Intervention.* https://doi.org/10.1177/1534508418761231
