@@ -11,7 +11,7 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
-jobtitle: Assistant Professor, University of South Carolina
+jobtitle: Associate Professor, University of South Carolina
 keywords: mentoring, motivational interviewing
 linkcolor: blue
 fontawesome: yes
@@ -23,9 +23,11 @@ web: bit.ly/2VUQB1z
 ---
 # Employment
 
-*University of South Carolina*
-Assistant Professor (Columbia) \hfill 2016-Present  
-Department of Psychology
+*University of South Carolina*   
+Associate Professor (Columbia) \hfill 2020-Present  
+Director, School Psychology Ph.D. Program \hfill 2020-Present  
+Assistant Professor (Columbia) \hfill 2016-2020   
+Department of Psychology  
 
 *University of Houston*
 Assistant Professor (Houston)  \hfill 2012-2016  
