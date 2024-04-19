@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae 2022"
+title: "Curriculum Vitae 2024"
 author: "Samuel D. McQuillin, Ph.D."
 email: MCQUILLS@mailbox.sc.edu
 output:
@@ -52,12 +52,20 @@ Core Beta Tester, OpenMx Structural Equation Modeling Software \hfill 2009
 
 # Publications
 
-## Peer Reviewed Journal Articles, N=47 [^1]
+## Peer Reviewed Journal Articles, N=55 [^1]
 [^1]: Indicates author or presenter was student/mentee of Dr. McQuillin.  
 
+1. Will, E. A., Hills, K. J., Smith, K., McQuillin, S., & Roberts, J. E. (2024). Developmental associations between motor and communication outcomes in Fragile X syndrome: Variation in the context of co-occurring autism. Autism, 0(0). https://doi.org/10.1177/13623613231225498
+1. Harrod, S. B., Harrison, S. E., McQuillin, S. D., & Weist, M. D. (2024). United States Schools and the Opioid Crisis: Charting New Directions. American Journal of Health Education, 1–13. https://doi.org/10.1080/19325037.2023.2295558
+1. Hagler, M. A., Jones, K. V., Anderson, A. J., McQuillin, S. D., Weiler, L. M., & Sánchez, B. (2024). Striving for safety, impact, and equity: A critical consideration of AJCP publications on formal youth mentoring programs. American Journal of Community Psychology, 72, 258–270. https://doi.org/10.1002/ajcp.12702
+1. Flitner, A.^1^, McQuillin, S., Kornbluh, M., & Thompson, D.^1^ (2024). Spotlighting racism in schools: Teacher mentors and the mediating effect of school safety. American Journal of Community Psychology, 1–11. https://doi.org/10.1002/ajcp.12680
+1. Samuels, J.^1^, Davis, A. L.^1^, & McQuillin, S. D. (2023). Assessing Longitudinal Impacts of Mentor Role on Youth Outcomes. Youth & Society, 55(5), 999-1025. https://doi.org/10.1177/0044118X231168439
+1. Davis, A. L.^1^, & McQuillin, S. D. (2023). Exploring changes in the teacher-child relationship and children’s educational expectations. Journal of Applied Developmental Psychology, 87, 101564. https://doi.org/10.1016/j.appdev.2023.101564
+1. Davis, A.L.^1^, Yazdani, N., Kornbluh, M., & McQuillin, S.D. (2023). Exploring the impact of natural mentors on sociopolitical stress: Implications for educators and youth workers. Global Journal of Community Psychology Practice.
+1. Hart, M.J.^1^, McQuillin, S.D., Iachini, A. Hills, K., Cooper, D.(2023) Expanding School-Based Motivational Interviewing Through Delivery by Paraprofessional Providers: A Preliminary Scoping Review. *School Mental Health* 15, 673–691 (2023). https://doi.org/10.1007/s12310-023-09580-3
+1. Hart, M.^1^,, Sung, J., McQuillin, S., Schleider, J. (2023) Expanding the reach of psychosocial services for youth: Untapped potential of mentor-delivered single session interventions. *Journal of Community Psychology*, 51, 3, 1255-1272. https://doi.org/10.1002/jcop.22927
 1. Poon, C., Herrera, C., Jarjoura, R., McQuillin, S., Keller, T., Rhodes, J. (2022) Deconstructing "risk" in youth mentoring programs: How enviornmental stressors and presenting challenges shape mentoring relationship outcomes. 
 1. Hart M.^1^,, Sable, R., Gupta, A., McQuillin, S. (2022) Adapting a school-based motivational interviewing mentoring program for use in India. *School Psychology International*. https://doi.org/10.1177/01430343221080782
-1. Hart, M.^1^,, Sung, J., McQuillin, S., Schleider, J. (2022) Expanding the reach of psychosocial services for youth: Untapped potential of mentor-delivered single session interventions. *Journal of Community Psychology*
 1. Hart, M.^1^, Flitner, A.^1^, Kornbluh, M., Thompson, D.^1^, Davis, A.^1^, Lanza-Gregory, J.^1^, McQuillin, S., Gonzalez, J., Strait, G. (2021) Combining MTSS community-based mentoring programs. *School Psychology Review*. doi.org/10.1080/2372966X.2021.1922937
 1. Raff, N., Mire, S., Frankel, L., McQuillin, S., Loveland, K., Daire, A., Grebe, S., Rosenbrock, G. (2021) Understanding perceptions underlying the self-reported stress among parents of adolescents with autism spectrum disorder: Considerations for supporting families. *Research in Autism Spectrum Disorders*. doi.org/10.1016/j.rasd.2021.101770
 1. Davis^1^, A. & McQuillin, S. (2021) Supporting autonomy in youth mentoring relationships. *Journal of Community Psychology*.
@@ -115,7 +123,11 @@ Core Beta Tester, OpenMx Structural Equation Modeling Software \hfill 2009
 
 # Peer Reviewed Presentations
 
-
+1. McQuillin, S., Reid, E., (2023) Building a Quality Improvement “Culture of Learning” Across all Levels of Your Organization
+The National Mentoring Summit, Washington DC, January 23rd – January 26th.
+1. Simpson, S., McQuillin, S. (2023) Just-In-Time Training for Mentors: Considerations and Recommendations. The National Mentoring Summit, Washington DC, January 23rd – January 26th.
+1. Parish, L., Weist,. M., McQuillin, S. (2023) The South Carolina School Behavioral Health Academy. Paper presented at the Advancing School Mental Health Conference, New Orleans, LA.
+1. Harrison, S., Harrod, S., McQuillin, S. (2023) Paper presented at the Advancing School Mental Health Conference, New Orleans, LA.
 1. McQuillin, S. Reid, E., (2021) Using empowerment evaluation to strengthen inclusiveness, team engagement, and program effectiveness. Workshop presented at the annual National Mentoring Summit, Virtual Presentation. 
 1. McQuillin S., Walsh, S. (2020) Creating Quality Improvement Systems to Improve Program Effectiveness. Workshop presentated at the annual National Mentoring Summit, Washington, DC.
 1. McQuillin, S., Lyons, M. (2017) Treatment construct validity in school-based mentoring intervention research. Paper presented at the annual meeting for the Society for Research on Educational Effectiveness, Washington, DC. 
@@ -143,7 +155,13 @@ Core Beta Tester, OpenMx Structural Equation Modeling Software \hfill 2009
 
 ## Invited talks
 
+McQuillin, S., (2023) The South Carolina School Mentoring Summit. A granted funded meeting hosted by the University of South Carolina via the Duke Endowment. April, 2023.
+
+McQuillin, S., (2022) What is evidence-based mentoring? Invited Keynote Address. European Mentoring Summit.Leeuwarden, Netherlands. 
+
 Garringer, M., McQuillin, S. (2017) Key Findings and Conclusions from the 2016 National Mentoring Program Survey. Webinar produced by MENTOR: The National Mentoring Project.  
+
+McQuillin, S. (2018) Refining mentoring programs from the margins: Testing small, focused, and iterative changes in the ordinary to spur continuous quality improvement. Invited speaker, Summer Youth Mentoring Institute, Portland, OR.
 
 McQuillin, S., Duncombe, S., Siegfried, A. (2017) A Fresh Look at Logic Models: Enhance and Amply Their Value. Webinar presented on behalf of the Collaborative Mentoring Webinar Series, produced by MENTOR: The National Mentoring Partnership.  
 
@@ -179,6 +197,22 @@ Garnet Apple Award for Teaching Innovation, University of South Carolina, \hfill
 McCausland Faculty Fellows, University of South Carolina, \hfill 2022  
 
 # Grant Awards/Activity
+
+Site Principal Investigator \hfill 2022-2025  
+Evidence-Informed Mental Health Prevention, Assessment, Collaboration, and Treatment in Middle Schools (E-IMPACTS).
+National Institute of Mental Health, $528,000
+
+Principal Investigator \hfill 2022-2025  
+Strengthening and Expanding School Mental Health by Integrating Community Mentors in School Problem Solving Teams.
+The Duke Endowment, $580,000
+
+Co-Principal Investigator \hfill 2022-2025  
+Supporting Substance Use Disorder Services in South Carolina (SSUDS-SC)—An Innovative Training Program for Health Service Psychology Trainees.  
+Health Resources and Services Administration  
+
+Co-Director \hfill 2022-2024  
+Development and Implementation of a SC School Behavioral Health Academy  
+Department of Health and Human Services, $3,224,526  
 
 Principal Investigator \hfill 2020-2021  
 Development and Evaluation of Distributed Motivational Interviewing Training for Mentors
